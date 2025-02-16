@@ -1,7 +1,7 @@
 # Color Sort Research
 
 Runs the intake and collects the detected hue from the optical sensor every
-10ms. Stores teh numbers in a JSON array on the SD card. `analyze.py` takes the
+10ms. Stores the numbers in a JSON array on the SD card. `analyze.py` takes the
 data and graphs to easily view peaks for rings.
 
 ## Why?
